@@ -1,0 +1,24 @@
+{
+  "originHash" : "85d1f7efec9d0bf2e9eabc1ae3dd38dff71c5c34a4f1e305b4a1b446d8299911",
+  "pins" : [
+    {
+      "identity" : "cocoaasyncsocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/robbiehanson/CocoaAsyncSocket.git",
+      "state" : {
+        "revision" : "dbdc00669c1ced63b27c3c5f052ee4d28f10150c",
+        "version" : "7.6.5"
+      }
+    },
+    {
+      "identity" : "glamarm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reyeahit/Glamarm",
+      "state" : {
+        "revision" : "de2532446330fe0526a148b4dfcc3088d6286001",
+        "version" : "1.0.9"
+      }
+    }
+  ],
+  "version" : 3
+}
