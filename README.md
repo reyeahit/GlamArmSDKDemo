@@ -134,7 +134,7 @@ GlamArmSDKDemo/
 
 ## 9. License
 
-Add your internal/commercial licensing terms here (if applicable).
+
 
 ---
 
